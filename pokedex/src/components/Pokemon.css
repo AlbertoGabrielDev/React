@@ -1,0 +1,78 @@
+body{
+    background-color: #231B1B;
+}
+
+
+.nome{
+    color: beige; 
+}
+
+.pokemon_search{
+    width: 644px;
+    height: 46px;
+    border-radius: 15px;
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+    margin-left: 570px;
+}
+
+.pokemon_search::placeholder{
+    color: black;
+}
+
+.botao{
+    border-radius: 15px;
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+    margin-left: 830px;
+}
+
+.botao:hover{
+   background-color: aqua;
+}
+
+.cartao{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.conteiner{
+    height: 355px;
+    width: 280px;
+    background-color: #312D2D;
+    border-radius: 15px;
+    margin-left: 15px;
+}
+
+.nome_pokemon{
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+}
+
+.id_pokemon{
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+    line-height: 1px;
+}
+
+.tipo_pokemon{
+    height: 38px;
+    width: 201px;
+    background-color: green;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Itim;
+    margin-left: 38px;
+    margin-top: 250px;
+    
+}
+
+
