@@ -1,11 +1,4 @@
-body{
-    background-color: #231B1B;
-}
 
-
-.nome{
-    color: beige; 
-}
 
 .pokemon_search{
     width: 644px;
@@ -41,7 +34,7 @@ body{
     border-radius: 20px;
 }
 
-.conteiner{
+.conteineres{
     height: 355px;
     width: 280px;
     background-color: #312D2D;
